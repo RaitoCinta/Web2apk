@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Web2APK</string>
+    <string name="app_subtitle">Konverter Web &amp; HTML ke APK Instan</string>
+    <string name="tab_builder">Buat APK</string>
+    <string name="tab_history">Riwayat APK</string>
+    <string name="section_identity">Identitas Aplikasi</string>
+    <string name="section_source">Sumber Web / File</string>
+    <string name="section_permissions">Permission Android</string>
+    <string name="section_webview">Opsi WebView &amp; Manifest</string>
+    <string name="label_app_name">Nama Aplikasi *</string>
+    <string name="hint_app_name">Contoh: TokoKu</string>
+    <string name="label_package_name">Package Name *</string>
+    <string name="hint_package_name">com.contoh.aplikasi</string>
+    <string name="action_auto_package">Buat Otomatis</string>
+    <string name="label_version_name">Versi</string>
+    <string name="label_version_code">Kode Versi</string>
+    <string name="source_mode_url">Tautan URL Web</string>
+    <string name="source_mode_file">File HTML / ZIP</string>
+    <string name="label_web_url">Tautan URL Web *</string>
+    <string name="hint_web_url">https://aplikasi-anda.com</string>
+    <string name="action_pick_file">Pilih File (.html / .zip)</string>
+    <string name="action_change_file">Ganti File</string>
+    <string name="action_preview_web">Pratinjau</string>
+    <string name="action_build_apk">Konversi ke APK Instan</string>
+    <string name="action_save_apk">Simpan File APK</string>
+    <string name="action_share_apk">Bagikan APK</string>
+    <string name="action_inspect_apk">Inspeksi Isi APK</string>
+    <string name="action_load_template">Muat ke Builder</string>
+    <string name="action_delete">Hapus</string>
+    <string name="empty_history_title">Belum Ada File APK</string>
+    <string name="empty_history_subtitle">Isi nama aplikasi, package, permission, dan URL atau file HTML/ZIP untuk membangun APK pertama Anda secara instan.</string>
+    <string name="cd_banner_art">Ilustrasi Web2APK Forge</string>
+    <string name="cd_app_icon">Ikon aplikasi target</string>
+    <string name="cd_back">Kembali</string>
+</resources>

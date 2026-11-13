@@ -1,0 +1,6 @@
+{
+  "name": "Web2APK",
+  "description": "Konverter web ke file APK Android instan dengan pengaturan nama aplikasi, package, permission, serta sumber URL web atau file HTML/ZIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
